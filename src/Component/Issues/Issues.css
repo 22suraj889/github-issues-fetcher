@@ -1,0 +1,15 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+.issues_table {
+    width: 50%;
+    margin: 2rem auto 0 auto;
+}
